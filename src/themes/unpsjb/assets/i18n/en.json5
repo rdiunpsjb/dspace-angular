@@ -1,0 +1,18 @@
+{
+  // DSpace default: "All of DSpace"
+  "menu.section.browse_global": "Browse DSpace",
+
+  // DSpace default: "DSpace Angular :: "
+  //"repository.title.prefix": "DSpace :: ",
+  
+  // "repository.title": "DSpace Repository",
+  "repository.title": "Repositorio DSpace de la UNPSJB",
+
+  // "repository.title.prefix": "DSpace Repository :: ",
+  "repository.title.prefix": "RDI UNPSJB :: ",
+
+  "submission.sections.submit.progressbar.describe.step1": "Describe",
+  "submission.sections.submit.progressbar.describe.step2": "Describe",
+  "submission.sections.submit.progressbar.describe.step3": "Describe",
+
+}
