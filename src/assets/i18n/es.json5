@@ -5734,6 +5734,21 @@
   // "search.filters.search.submit": "Submit",
   "search.filters.search.submit": "Enviar",
 
+  //"search.filters.namedresourcetype.Archived": "Archived",
+  "search.filters.namedresourcetype.Archived": "Archivado",
+
+  //"search.filters.namedresourcetype.Validation": "Validation",
+  "search.filters.namedresourcetype.Validation": "Validación",
+
+  //"search.filters.namedresourcetype.Waiting for Controller": "Waiting for Controller",
+  "search.filters.namedresourcetype.Waiting for Controller": "Esperando al controlador",
+
+  //"search.filters.namedresourcetype.Workflow": "Workflow",
+  "search.filters.namedresourcetype.Workflow": "Flujo de trabajo",
+
+  //"search.filters.namedresourcetype.Workspace": "Workspace",
+  "search.filters.namedresourcetype.Workspace": "Espacio de trabajo",
+
   // "search.form.search": "Search",
   "search.form.search": "Buscar",
 
