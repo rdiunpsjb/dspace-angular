@@ -4240,7 +4240,7 @@
   "menu.section.browse_global_by_srsc": "Por categoría",
 
   // "menu.section.browse_global_by_title": "By Title",
-  "menu.section.browse_global_by_title": "Por titulo",
+  "menu.section.browse_global_by_title": "Por título",
 
   // "menu.section.browse_global_communities_and_collections": "Communities & Collections",
   "menu.section.browse_global_communities_and_collections": "Comunidades",
@@ -4426,7 +4426,8 @@
   "metadata-export-search.submit.error": "Ha fallado el comienzo de la exportación",
 
   // "mydspace.breadcrumbs": "MyDSpace",
-  "mydspace.breadcrumbs": "Mi DSpace",
+  //"mydspace.breadcrumbs": "Mi DSpace",
+  "mydspace.breadcrumbs": "Envíos",
 
   // "mydspace.description": "",
   "mydspace.description": "",

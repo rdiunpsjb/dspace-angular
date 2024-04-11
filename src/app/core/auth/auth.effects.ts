@@ -112,7 +112,8 @@ export class AuthEffects {
     ofType(AuthActionTypes.REDIRECT_AFTER_LOGIN_SUCCESS),
     tap((action: RedirectAfterLoginSuccessAction) => {
       this.authService.clearRedirectUrl();
-      this.authService.navigateToRedirectUrl(action.payload);
+      //this.authService.navigateToRedirectUrl(action.payload);
+      this.authService.navigateToRedirectUrl('/mydspace');
     })
   ), { dispatch: false });
 
