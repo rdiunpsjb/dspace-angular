@@ -494,6 +494,147 @@
 
   // "admin.access-control.epeople.notification.deleted.success": "Successfully deleted EPerson: \"{{name}}\"",
   "admin.access-control.epeople.notification.deleted.success": "Usuario eliminado correctamente: \"{{ name }}\"",
+  // "admin.access-control.epeople.actions.delete": "Delete EPerson",
+  "admin.access-control.epeople.actions.delete": "Eliminar usuario",
+
+  // "admin.access-control.epeople.actions.impersonate": "Impersonate EPerson",
+  "admin.access-control.epeople.actions.impersonate": "Hacerse pasar por usuario",
+
+  // "admin.access-control.epeople.actions.reset": "Reset password",
+  "admin.access-control.epeople.actions.reset": "Restablecer la contraseña",
+
+  // "admin.access-control.epeople.actions.stop-impersonating": "Stop impersonating EPerson",
+  "admin.access-control.epeople.actions.stop-impersonating": "Dejar de hacerse pasar por usuario",
+
+  // "admin.access-control.epeople.breadcrumbs": "EPeople",
+  "admin.access-control.epeople.breadcrumbs": "Usuarios",
+
+  // "admin.access-control.epeople.title": "EPeople",
+  "admin.access-control.epeople.title": "Usuarios",
+
+  // "admin.access-control.epeople.head": "EPeople",
+  "admin.access-control.epeople.head": "Usuarios",
+
+  // "admin.access-control.epeople.search.head": "Search",
+  "admin.access-control.epeople.search.head": "Buscar",
+
+  // "admin.access-control.epeople.button.see-all": "Browse All",
+  "admin.access-control.epeople.button.see-all": "Examinar todo",
+
+  // "admin.access-control.epeople.search.scope.metadata": "Metadata",
+  "admin.access-control.epeople.search.scope.metadata": "Metadatos",
+
+  // "admin.access-control.epeople.search.scope.email": "E-mail (exact)",
+  "admin.access-control.epeople.search.scope.email": "Correo electrónico (exacto)",
+
+  // "admin.access-control.epeople.search.button": "Search",
+  "admin.access-control.epeople.search.button": "Buscar",
+
+  // "admin.access-control.epeople.search.placeholder": "Search people...",
+  "admin.access-control.epeople.search.placeholder": "Busca usuarios...",
+
+  // "admin.access-control.epeople.button.add": "Add EPerson",
+  "admin.access-control.epeople.button.add": "Agregar un usuario",
+
+  // "admin.access-control.epeople.table.id": "ID",
+  "admin.access-control.epeople.table.id": "ID",
+
+  // "admin.access-control.epeople.table.name": "Name",
+  "admin.access-control.epeople.table.name": "Nombre",
+
+  // "admin.access-control.epeople.table.email": "E-mail (exact)",
+  "admin.access-control.epeople.table.email": "Correo electrónico (exacto)",
+
+  // "admin.access-control.epeople.table.edit": "Edit",
+  "admin.access-control.epeople.table.edit": "Editar",
+
+  // "admin.access-control.epeople.table.edit.buttons.edit": "Edit \"{{name}}\"",
+  "admin.access-control.epeople.table.edit.buttons.edit": "Editar \"{{ name }}\"",
+
+  // "admin.access-control.epeople.table.edit.buttons.edit-disabled": "You are not authorized to edit this group",
+  "admin.access-control.epeople.table.edit.buttons.edit-disabled": "No tienes autorización para editar este grupo.",
+
+  // "admin.access-control.epeople.table.edit.buttons.remove": "Delete \"{{name}}\"",
+  "admin.access-control.epeople.table.edit.buttons.remove": "Eliminar \"{{ name }}\"",
+
+  // "admin.access-control.epeople.no-items": "No EPeople to show.",
+  "admin.access-control.epeople.no-items": "No hay usuarios para mostrar.",
+
+  // "admin.access-control.epeople.form.create": "Create EPerson",
+  "admin.access-control.epeople.form.create": "Crear un usuario",
+
+  // "admin.access-control.epeople.form.edit": "Edit EPerson",
+  "admin.access-control.epeople.form.edit": "Editar usuario",
+
+  // "admin.access-control.epeople.form.firstName": "First name",
+  "admin.access-control.epeople.form.firstName": "Nombre",
+
+  // "admin.access-control.epeople.form.lastName": "Last name",
+  "admin.access-control.epeople.form.lastName": "Apellidos",
+
+  // "admin.access-control.epeople.form.email": "E-mail",
+  "admin.access-control.epeople.form.email": "Correo electrónico",
+
+  // "admin.access-control.epeople.form.emailHint": "Must be valid e-mail address",
+  "admin.access-control.epeople.form.emailHint": "Debe ser una dirección de correo electrónico válida",
+
+  // "admin.access-control.epeople.form.canLogIn": "Can log in",
+  "admin.access-control.epeople.form.canLogIn": "Puede iniciar sesión",
+
+  // "admin.access-control.epeople.form.requireCertificate": "Requires certificate",
+  "admin.access-control.epeople.form.requireCertificate": "Requiere certificado",
+
+  // "admin.access-control.epeople.form.return": "Back",
+  "admin.access-control.epeople.form.return": "Atrás",
+
+  // "admin.access-control.epeople.form.notification.created.success": "Successfully created EPerson \"{{name}}\"",
+  "admin.access-control.epeople.form.notification.created.success": "Usuario \"{{ name }}\" creado correctamente",
+
+  // "admin.access-control.epeople.form.notification.created.failure": "Failed to create EPerson \"{{name}}\"",
+  "admin.access-control.epeople.form.notification.created.failure": "Error al crear usuario \"{{ name }}\"",
+
+  // "admin.access-control.epeople.form.notification.created.failure.emailInUse": "Failed to create EPerson \"{{name}}\", email \"{{email}}\" already in use.",
+  "admin.access-control.epeople.form.notification.created.failure.emailInUse": "Error al crear usuario \"{{ name }}\", el correo electrónico \"{{ email }}\" ya está en uso.",
+
+  // "admin.access-control.epeople.form.notification.edited.failure.emailInUse": "Failed to edit EPerson \"{{name}}\", email \"{{email}}\" already in use.",
+  "admin.access-control.epeople.form.notification.edited.failure.emailInUse": "Error al editar usuario \"{{ name }}\", el correo electrónico \"{{ email }}\" ya está en uso.",
+
+  // "admin.access-control.epeople.form.notification.edited.success": "Successfully edited EPerson \"{{name}}\"",
+  "admin.access-control.epeople.form.notification.edited.success": "Usuario \"{{ name }}\" editado correctamente",
+
+  // "admin.access-control.epeople.form.notification.edited.failure": "Failed to edit EPerson \"{{name}}\"",
+  "admin.access-control.epeople.form.notification.edited.failure": "Error al editar usuario \"{{ name }}\"",
+
+  // "admin.access-control.epeople.form.notification.deleted.success": "Successfully deleted EPerson \"{{name}}\"",
+  "admin.access-control.epeople.form.notification.deleted.success": "Usuario \"{{ name }}\" eliminado correctamente",
+
+  // "admin.access-control.epeople.form.notification.deleted.failure": "Failed to delete EPerson \"{{name}}\"",
+  "admin.access-control.epeople.form.notification.deleted.failure": "No se pudo borrar el usuario \"{{ name }}\"",
+
+  // "admin.access-control.epeople.form.groupsEPersonIsMemberOf": "Member of these groups:",
+  "admin.access-control.epeople.form.groupsEPersonIsMemberOf": "Miembro de estos grupos:",
+
+  // "admin.access-control.epeople.form.table.id": "ID",
+  "admin.access-control.epeople.form.table.id": "ID",
+
+  // "admin.access-control.epeople.form.table.name": "Name",
+  "admin.access-control.epeople.form.table.name": "Nombre",
+
+  // "admin.access-control.epeople.form.table.collectionOrCommunity": "Collection/Community",
+  "admin.access-control.epeople.form.table.collectionOrCommunity": "Colección/Comunidad",
+
+  // "admin.access-control.epeople.form.memberOfNoGroups": "This EPerson is not a member of any groups",
+  "admin.access-control.epeople.form.memberOfNoGroups": "Este usuario no es miembro de ningún grupo",
+
+  // "admin.access-control.epeople.form.goToGroups": "Add to groups",
+  "admin.access-control.epeople.form.goToGroups": "Agregar a grupos",
+
+  // "admin.access-control.epeople.notification.deleted.failure": "Failed to delete EPerson: \"{{name}}\"",
+  "admin.access-control.epeople.notification.deleted.failure": "No se pudo borrar el usuario: \"{{ name }}\"",
+
+  // "admin.access-control.epeople.notification.deleted.success": "Successfully deleted EPerson: \"{{name}}\"",
+  "admin.access-control.epeople.notification.deleted.success": "Usuario eliminado correctamente: \"{{ name }}\"",
+
 
   // "admin.access-control.groups.title": "Groups",
   "admin.access-control.groups.title": "Grupos",
@@ -2191,10 +2332,13 @@
   "dso-selector.import-batch.dspaceobject.head": "Importar archivo por lotes desde",
 
   // "dso-selector.no-results": "No {{ type }} found",
-  "dso-selector.no-results": "No se encontró {{ type }}",
+  //"dso-selector.no-results": "No se encontró {{ type }}",
+  "dso-selector.no-results": "No se encontró ningún registro.",
 
   // "dso-selector.placeholder": "Search for a {{ type }}",
-  "dso-selector.placeholder": "Busque un {{ type }}",
+  //"dso-selector.placeholder": "Busque un {{ type }}",
+  "dso-selector.placeholder": "Busque una comunidad o colección",
+
 
   // "dso-selector.select.collection.head": "Select a collection",
   "dso-selector.select.collection.head": "Seleccione una colección",
