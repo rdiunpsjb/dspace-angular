@@ -368,7 +368,7 @@
 
   // "admin.access-control.epeople.breadcrumbs": "EPeople",
   "admin.access-control.epeople.breadcrumbs": "Usuarios",
-
+  
   // "admin.access-control.epeople.title": "EPeople",
   "admin.access-control.epeople.title": "Usuarios",
 
@@ -494,6 +494,11 @@
 
   // "admin.access-control.epeople.notification.deleted.success": "Successfully deleted EPerson: \"{{name}}\"",
   "admin.access-control.epeople.notification.deleted.success": "Usuario eliminado correctamente: \"{{ name }}\"",
+  
+  "admin.access-control.epeople.edit.breadcrumbs": "Editar usuario",
+
+  "admin.access-control.epeople.add.breadcrumbs": "Crear usuario",
+  
 
   // "admin.access-control.groups.title": "Groups",
   "admin.access-control.groups.title": "Grupos",

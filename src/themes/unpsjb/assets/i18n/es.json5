@@ -5892,7 +5892,7 @@
   "search.form.search_dspace": "Todo el repositorio",
 
   // "search.form.scope.all": "All of DSpace",
-  "search.form.scope.all": "Todo DSpace",
+  "search.form.scope.all": "Todo el repositorio",
 
   // "search.results.head": "Search Results",
   "search.results.head": "Resultados de la búsqueda",
@@ -6722,9 +6722,9 @@
   // "submission.sections.submit.progressbar.describe.steptwo": "Describe",
   "submission.sections.submit.progressbar.describe.steptwo": "Describir",
 
-  "submission.sections.submit.progressbar.describe.step1": "Describe",
-  "submission.sections.submit.progressbar.describe.step2": "Describe",
-  "submission.sections.submit.progressbar.describe.step3": "Describe",
+  "submission.sections.submit.progressbar.describe.step1": "Describir",
+  "submission.sections.submit.progressbar.describe.step2": "Describir",
+  "submission.sections.submit.progressbar.describe.step3": "Describir",
 
   // "submission.sections.submit.progressbar.detect-duplicate": "Potential duplicates",
   "submission.sections.submit.progressbar.detect-duplicate": "Posibles duplicados",
