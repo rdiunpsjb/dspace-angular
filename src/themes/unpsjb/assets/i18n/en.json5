@@ -14,5 +14,9 @@
   "submission.sections.submit.progressbar.describe.step1": "Describe",
   "submission.sections.submit.progressbar.describe.step2": "Describe",
   "submission.sections.submit.progressbar.describe.step3": "Describe",
-
+ 
+  "search.filters.filter.itemsede.head": "Campus",
+  "search.filters.filter.itemsede.placeholder": "Campus",
+  "search.filters.filter.itemsede.label": "Search campus",
+  "search.filters.applied.f.itemsede": "Campus",
 }

@@ -366,6 +366,10 @@
   // "admin.access-control.epeople.actions.stop-impersonating": "Stop impersonating EPerson",
   "admin.access-control.epeople.actions.stop-impersonating": "Dejar de hacerse pasar por usuario",
 
+  "admin.access-control.epeople.edit.breadcrumbs": "Editar usuario",
+
+  "admin.access-control.epeople.add.breadcrumbs": "Crear usuario",
+  
   // "admin.access-control.epeople.breadcrumbs": "EPeople",
   "admin.access-control.epeople.breadcrumbs": "Usuarios",
 
@@ -4570,9 +4574,8 @@
   "metadata-export-search.submit.error": "Ha fallado el comienzo de la exportación",
 
   // "mydspace.breadcrumbs": "MyDSpace",
-  //"mydspace.breadcrumbs": "Mi DSpace",
-  "mydspace.breadcrumbs": "Envíos",
-
+  "mydspace.breadcrumbs": "Mi DSpace",
+  
   // "mydspace.description": "",
   "mydspace.description": "",
 
@@ -5740,6 +5743,14 @@
 
   // "search.filters.filter.itemtype.label": "Search type",
   "search.filters.filter.itemtype.label": "Búsqueda de Tipo",
+
+  "search.filters.filter.itemsede.head": "Sede",
+
+  "search.filters.filter.itemsede.placeholder": "Sede",
+
+  "search.filters.filter.itemsede.label": "Búsqueda de Sede",
+  
+  "search.filters.applied.f.itemsede": "Sede",
 
   // "search.filters.filter.jobTitle.head": "Job Title",
   "search.filters.filter.jobTitle.head": "Puesto de trabajo",
