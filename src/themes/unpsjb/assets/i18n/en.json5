@@ -19,4 +19,18 @@
   "search.filters.filter.itemsede.placeholder": "Campus",
   "search.filters.filter.itemsede.label": "Search campus",
   "search.filters.applied.f.itemsede": "Campus",
+
+  "search.filters.filter.itemfacultad.head": "Faculty",
+  "search.filters.filter.itemfacultad.placeholder": "Faculty",
+  "search.filters.filter.itemfacultad.label": "Search faculty",
+  "search.filters.applied.f.itemfacultad": "Faculty",  
+  
+  "search.filters.filter.itemcarrera.head": "Career",
+  "search.filters.filter.itemcarrera.placeholder": "Career",
+  "search.filters.filter.itemcarrera.label": "Search career",
+  "search.filters.applied.f.itemcarrera": "Campus",
+
+  "vocabulary-treeview.search.form.add": "Add",
+
+
 }
