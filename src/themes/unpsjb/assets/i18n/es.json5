@@ -4389,7 +4389,7 @@
 
   // "menu.section.browse_global_by_title": "By Title",
   "menu.section.browse_global_by_title": "Por título",
-
+  
   // "menu.section.browse_global_communities_and_collections": "Communities & Collections",
   "menu.section.browse_global_communities_and_collections": "Comunidades",
 
@@ -5754,10 +5754,10 @@
   "search.filters.filter.itemfacultad.label": "Búsqueda por facultad",
   "search.filters.applied.f.itemfacultad": "Facultad",  
   
-  "search.filters.filter.itemcarrera.head": "Career",
-  "search.filters.filter.itemcarrera.placeholder": "Career",
-  "search.filters.filter.itemcarrera.label": "Search career",
-  "search.filters.applied.f.itemcarrera": "Campus",
+  "search.filters.filter.itemcarrera.head": "Carrera",
+  "search.filters.filter.itemcarrera.placeholder": "Carrera",
+  "search.filters.filter.itemcarrera.label": "Búsqueda por carrera",
+  "search.filters.applied.f.itemcarrera": "Carrera",
 
   // "search.filters.filter.jobTitle.head": "Job Title",
   "search.filters.filter.jobTitle.head": "Puesto de trabajo",
@@ -7999,5 +7999,11 @@
   "access-control-option-end-date-note": "Escoja la fecha hasta la cuál se aplicarán las condiciones de acceso especificadas",
 
   "vocabulary-treeview.search.form.add": "Agregar",
+  "menu.section.browse_global_by_carreras": "Por carrera",
+  "menu.section.browse_global_by_terminos_use": "Por categoría",
+  "browse.metadata.carreras.breadcrumbs": "Buscar por carrera",
+  "browse.metadata.terminos_use.breadcrumbs": "Buscar por categoría de tema",
+  "browse.comcol.by.carreras": "Por carrera",
+  "browse.comcol.by.terminos_use": "Por categoría",
 
 }
