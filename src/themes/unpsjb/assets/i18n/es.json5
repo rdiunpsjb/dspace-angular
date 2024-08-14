@@ -5744,21 +5744,6 @@
   // "search.filters.filter.itemtype.label": "Search type",
   "search.filters.filter.itemtype.label": "Búsqueda por Tipo",
 
-  "search.filters.filter.itemsede.head": "Sede",
-  "search.filters.filter.itemsede.placeholder": "Sede",
-  "search.filters.filter.itemsede.label": "Búsqueda por Sede",
-  "search.filters.applied.f.itemsede": "Sede",
-
-  "search.filters.filter.itemfacultad.head": "Facultad",
-  "search.filters.filter.itemfacultad.placeholder": "Facultad",
-  "search.filters.filter.itemfacultad.label": "Búsqueda por facultad",
-  "search.filters.applied.f.itemfacultad": "Facultad",  
-  
-  "search.filters.filter.itemcarrera.head": "Carrera",
-  "search.filters.filter.itemcarrera.placeholder": "Carrera",
-  "search.filters.filter.itemcarrera.label": "Búsqueda por carrera",
-  "search.filters.applied.f.itemcarrera": "Carrera",
-
   // "search.filters.filter.jobTitle.head": "Job Title",
   "search.filters.filter.jobTitle.head": "Puesto de trabajo",
 
@@ -7999,11 +7984,31 @@
   "access-control-option-end-date-note": "Escoja la fecha hasta la cuál se aplicarán las condiciones de acceso especificadas",
 
   "vocabulary-treeview.search.form.add": "Agregar",
+  
   "menu.section.browse_global_by_carreras": "Por carrera",
   "menu.section.browse_global_by_terminos_use": "Por categoría",
+
   "browse.metadata.carreras.breadcrumbs": "Buscar por carrera",
   "browse.metadata.terminos_use.breadcrumbs": "Buscar por categoría de tema",
+  
   "browse.comcol.by.carreras": "Por carrera",
   "browse.comcol.by.terminos_use": "Por categoría",
+
+
+  "search.filters.filter.itemsede.head": "Sede",
+  "search.filters.filter.itemsede.placeholder": "Sede",
+  "search.filters.filter.itemsede.label": "Búsqueda por Sede",
+  "search.filters.applied.f.itemsede": "Sede",
+
+  "search.filters.filter.itemfacultad.head": "Facultad",
+  "search.filters.filter.itemfacultad.placeholder": "Facultad",
+  "search.filters.filter.itemfacultad.label": "Búsqueda por facultad",
+  "search.filters.applied.f.itemfacultad": "Facultad",  
+  
+  "search.filters.filter.itemcarrera.head": "Carrera",
+  "search.filters.filter.itemcarrera.placeholder": "Carrera",
+  "search.filters.filter.itemcarrera.label": "Búsqueda por carrera",
+  "search.filters.applied.f.itemcarrera": "Carrera",
+
 
 }
