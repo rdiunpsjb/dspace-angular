@@ -13,7 +13,10 @@
 
   "submission.sections.submit.progressbar.describe.step1": "Describe",
   "submission.sections.submit.progressbar.describe.step2": "Describe",
-  "submission.sections.submit.progressbar.describe.step3": "Describe",
+
+  "submission.sections.submit.progressbar.describe.step11": "Describe",
+  "submission.sections.submit.progressbar.describe.step22": "Describe",
+  "submission.sections.submit.progressbar.describe.step33": "Describe",
  
   "search.filters.filter.itemsede.head": "Campus",
   "search.filters.filter.itemsede.placeholder": "Campus",

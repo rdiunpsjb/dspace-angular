@@ -6727,7 +6727,10 @@
 
   "submission.sections.submit.progressbar.describe.step1": "Describir",
   "submission.sections.submit.progressbar.describe.step2": "Describir",
-  "submission.sections.submit.progressbar.describe.step3": "Describir",
+
+  "submission.sections.submit.progressbar.describe.step11": "Describir",
+  "submission.sections.submit.progressbar.describe.step22": "Describir",
+  "submission.sections.submit.progressbar.describe.step33": "Describir",
 
   // "submission.sections.submit.progressbar.detect-duplicate": "Potential duplicates",
   "submission.sections.submit.progressbar.detect-duplicate": "Posibles duplicados",
