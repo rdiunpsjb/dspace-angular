@@ -34,12 +34,15 @@
   "search.filters.applied.f.itemcarrera": "Campus",
 
   "vocabulary-treeview.search.form.add": "Add",
+
   "menu.section.browse_global_by_carreras": "By Career",
   "menu.section.browse_global_by_terminos_use": "By Category",
+
   "browse.metadata.carreras.breadcrumbs": "Browse by Career",
   "browse.metadata.terminos_use.breadcrumbs": "Browse by Subject Category",
   "browse.comcol.by.carreras": "By Career",
   "browse.comcol.by.terminos_use": "By Subject Category",
+
   "search.filters.filter.itemcarrera.head" : "Career",
   "search.filters.filter.itemcarrera.placeholder": "Career",
   "search.filters.filter.itemcarrera.label": "Search Career",

@@ -6725,13 +6725,6 @@
   // "submission.sections.submit.progressbar.describe.steptwo": "Describe",
   "submission.sections.submit.progressbar.describe.steptwo": "Describir",
 
-  "submission.sections.submit.progressbar.describe.step1": "Describir",
-  "submission.sections.submit.progressbar.describe.step2": "Describir",
-
-  "submission.sections.submit.progressbar.describe.step11": "Describir",
-  "submission.sections.submit.progressbar.describe.step22": "Describir",
-  "submission.sections.submit.progressbar.describe.step33": "Describir",
-
   // "submission.sections.submit.progressbar.detect-duplicate": "Potential duplicates",
   "submission.sections.submit.progressbar.detect-duplicate": "Posibles duplicados",
 
@@ -7984,7 +7977,15 @@
   "access-control-option-end-date": "Establecer acceso hasta",
 
   // "access-control-option-end-date-note": "Select the date until which the related access condition is applied",
+
   "access-control-option-end-date-note": "Escoja la fecha hasta la cuál se aplicarán las condiciones de acceso especificadas",
+
+  "submission.sections.submit.progressbar.describe.step1": "Describir",
+  "submission.sections.submit.progressbar.describe.step2": "Describir",
+
+  "submission.sections.submit.progressbar.describe.step11": "Describir",
+  "submission.sections.submit.progressbar.describe.step22": "Describir",
+  "submission.sections.submit.progressbar.describe.step33": "Describir",
 
   "vocabulary-treeview.search.form.add": "Agregar",
   
