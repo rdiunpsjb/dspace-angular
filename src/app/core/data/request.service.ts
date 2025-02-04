@@ -8,7 +8,7 @@ import cloneDeep from 'lodash/cloneDeep';
 import { hasValue, isEmpty, isNotEmpty, hasNoValue } from '../../shared/empty.util';
 import { ObjectCacheEntry } from '../cache/object-cache.reducer';
 import { ObjectCacheService } from '../cache/object-cache.service';
-import { IndexState, MetaIndexState } from '../index/index.reducer';
+import { IndexState } from '../index/index.reducer';
 import { requestIndexSelector, getUrlWithoutEmbedParams } from '../index/index.selectors';
 import { UUIDService } from '../shared/uuid.service';
 import {
@@ -136,8 +136,7 @@ export class RequestService {
 
   constructor(private objectCache: ObjectCacheService,
               private uuidService: UUIDService,
-              private store: Store<CoreState>,
-              private indexStore: Store<MetaIndexState>) {
+              private store: Store<CoreState>) {
   }
 
   generateRequestId(): string {
@@ -164,7 +163,7 @@ export class RequestService {
     this.getByHref(request.href).pipe(
       take(1))
       .subscribe((re: RequestEntry) => {
-        isPending = (hasValue(re) && isLoading(re.state));
+        isPending = (hasValue(re) && isLoading(re.state) && !isStale(re.state));
       });
     return isPending;
   }

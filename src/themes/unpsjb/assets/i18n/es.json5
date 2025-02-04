@@ -8014,5 +8014,8 @@
   "search.filters.filter.itemcarrera.label": "Búsqueda por carrera",
   "search.filters.applied.f.itemcarrera": "Carrera",
 
+  "dropdown.clear": "Borrar selección",
+  "dropdown.clear.tooltip": "Borrar la opción seleccionada",
+  "vocabulary-treeview.search.form.search-placeholder": "Filtrar resultados escribiendo las primeras letras",
 
 }

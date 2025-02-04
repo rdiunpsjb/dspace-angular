@@ -47,4 +47,10 @@
   "search.filters.filter.itemcarrera.placeholder": "Career",
   "search.filters.filter.itemcarrera.label": "Search Career",
   "search.filters.applied.f.itemcarrera": "Career",
+  
+  "dropdown.clear": "Clear selection",
+  "dropdown.clear.tooltip": "Clear the selected option",
+  "vocabulary-treeview.search.form.search-placeholder": "Filter results by typing the first few letters",
+
+
 }
