@@ -7991,9 +7991,13 @@
   
   "menu.section.browse_global_by_carreras": "Por carrera",
   "menu.section.browse_global_by_terminos_use": "Por categoría",
+  //"menu.section.browse_global_by_familias": "Por familia de herbario",
+  
 
   "browse.metadata.carreras.breadcrumbs": "Buscar por carrera",
   "browse.metadata.terminos_use.breadcrumbs": "Buscar por categoría de tema",
+  //"browse.metadata.familias.breadcrumbs": "Buscar por familia de herbario",
+  
   
   "browse.comcol.by.carreras": "Por carrera",
   "browse.comcol.by.terminos_use": "Por categoría",
@@ -8017,5 +8021,13 @@
   "dropdown.clear": "Borrar selección",
   "dropdown.clear.tooltip": "Borrar la opción seleccionada",
   "vocabulary-treeview.search.form.search-placeholder": "Filtrar resultados escribiendo las primeras letras",
+
+  "browse.taxonomy_srsc.title": "Buscar por categoría de tema",
+  "browse.taxonomy_terminos_use.title": "Buscar por categoría de tema",
+  "browse.taxonomy_carreras.title": "Buscar por carrera",
+
+
+
+  
 
 }
