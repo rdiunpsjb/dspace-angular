@@ -1,0 +1,58 @@
+<div class="container">
+<!--  <ds-end-user-agreement-content></ds-end-user-agreement-content> -->
+    <h1>{{ 'info.end-user-agreement.head' | translate }}</h1>
+  <p><em>Última actualización Noviembre de 2026</em></p>
+
+  <h2>Términos de Uso</h2>
+
+  <p>La utilización de los contenidos en el Repositorio Digital Institucional de la Universidad Nacional de la Patagonia San Juan Bosco (RDI-UNPSJB) implica estar de acuerdo con las siguientes condiciones:</p>
+
+  <p>El proyecto de creación del RDI, considera establecer un marco mínimo de políticas que regulen su funcionamiento, los procedimientos y
+  políticas para tener una visión clara sobre los roles y responsabilidades de las partes involucradas, así como también cumplir con las Directrices del
+  Sistema Nacional de Repositorios Digitales.</p>
+
+  <h3>Usuarios</h3>
+
+  <p>Por usuario se entiende a toda persona que acceda y/o utilice todo o parte de los contenidos incluidos en el sitio. Ser usuario implica necesariamente la aceptación de los términos de uso y de la legislación aplicable, plenamente y sin reservas.</p>
+
+  <h3>Responsabilidad de los usuarios</h3>
+
+  <p>Los usuarios se comprometen expresamente a hacer uso del sitio en forma correcta, sin contravenir el presente acuerdo, la legislación argentina, la buena fe y el orden público, asumiendo cualquier responsabilidad en caso de no cumplir con dichas estipulaciones.</p>
+  <p>En consecuencia, queda prohibido todo uso con fines ilegales y/o ilícitos, que de cualquier forma perjudiquen, dañen y/o sobrecarguen la información y afecten el normal funcionamiento del sitio, o que afecten directa o indirectamente contra el mismo o contra cualquier derecho de la Universidad Nacional de la Patagonia San Juan Bosco o de un tercero.</p>
+  
+  <h2>Propiedad intelectual</h2>
+  
+  <p>El contenido del sitio, incluyendo los materiales, documentos, bases de datos, diseños, marcas, logotipos, gráficos, audios, videos, etc., se encuentra protegido conforme lo dispuesto en la legislación vigente en materia de propiedad intelectual en la República Argentina.</p>
+  <p>Los autores y titulares de los derechos intelectuales sobre los contenidos incluidos y disponibles en el sitio (investigadores, docentes, estudiantes de grado y posgrado) han cedido de forma gratuita, no exclusiva, irrevocable e ilimitada en el tiempo a la Universidad Nacional de la Patagonia San Juan Bosco los derechos de reproducción, distribución, comunicación pública (incluyendo la puesta a disposición electrónica) y transformación para su preservación a largo plazo, en cumplimiento de la Ordenanza C.S. N° 178/2019.</p>
+  <p>El contenido del RDI-UNPSJB es de acceso abierto, libre y gratuito para todos los usuarios de acuerdo con la Ley Nacional N° 26.899 de Repositorios Digitales Institucionales de Acceso Abierto y las políticas institucionales. Se pueden realizar copias de objetos digitales completos para ser reproducidos, visualizados o representados con fines educativos, de estudio, investigación o cualquier otro fin lícito y sin fines de lucro, sin necesidad de solicitar permisos explícitos, siempre y cuando: </p>
+
+  <ul>
+    <li>Se identifique de forma inequívoca y clara la fuente, el contenido y sus autores.</li>
+    <li>Se brinde la información de derechos de autor original del contenido.</li>
+    <li>Se respeten las condiciones de uso establecidas por las licencias de uso específicas de cada publicación (por ejemplo, modelos de licencias Creative Commons o leyendas de uso autorizadas).</li>
+  </ul>
+
+  <h3>Uso de cookies</h3>
+
+  <p>Las "cookies" permiten entregar un contenido ajustado a los intereses y necesidades de nuestros usuarios y visitantes. Su uso se realiza exclusivamente con la finalidad de mantener un sitio operativo y adaptado a las preferencias técnicas de navegación en la plataforma DSpace.</p>
+
+
+  <h3>Legislación aplicable y jurisdicción competente</h3>
+
+  <p>La utilización del sitio se encuentra sujeta a las disposiciones establecidas en la legislación argentina. En consecuencia, toda cuestión controversial que pudiere resultar estará sometida a dichas leyes y a la jurisdicción de los tribunales de la República Argentina, La utilización del sitio se encuentra sujeta a las disposiciones establecidas en la legislación argentina. En consecuencia, toda cuestión controversial que pudiere resultar estará sometida a dichas leyes y a la jurisdicción de los tribunales de la República Argentina, con exclusión de toda norma que remita a la aplicación de una ley extranjera y/o de otra jurisdicción.</p>
+  <p>Los ítems pueden ser depositados por sus autores, sus derechohabientes, personal delegado acreditado o los titulares de los derechos
+  
+  <h3>Modificaciones</h3>
+  <p> La Universidad Nacional de la Patagonia San Juan Bosco se reserva el derecho de modificar, rectificar, alterar, agregar o eliminar cualquier punto del presente escrito en cualquier momento y sin previo aviso, siendo responsabilidad del usuario mantenerse informado del mismo para una adecuada utilización de la información institucional.</p>
+
+  <form class="form-user-agreement-accept mt-4" (ngSubmit)="submit()" novalidate>
+    <input class="ml-1 mr-2" type="checkbox" id="user-agreement-accept" [(ngModel)]="accepted" [ngModelOptions]="{standalone: true}">
+    <label class="col-form-label-lg" for="user-agreement-accept">{{ 'info.end-user-agreement.accept' | translate }}</label>
+
+    <div class="d-flex mt-4">
+      <button id="button-cancel" type="button" (click)="cancel()" class="btn btn-outline-secondary mr-auto">{{ 'info.end-user-agreement.buttons.cancel' | translate }}</button>
+      <button id="button-save" type="submit" class="btn btn-primary" [dsBtnDisabled]="!accepted">{{ 'info.end-user-agreement.buttons.save' | translate }}</button>
+    </div>
+  </form>
+
+</div>

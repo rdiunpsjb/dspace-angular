@@ -1,0 +1,43 @@
+{ 
+  // "repository.title": "DSpace Repository",
+  "repository.title": "Repositorio DSpace de la UNPSJB",
+
+  // "repository.title.prefix": "DSpace Repository :: ",
+  "repository.title.prefix": "RDI UNPSJB :: ",
+
+  "submission.sections.submit.progressbar.describe.step1": "Describe",
+  "submission.sections.submit.progressbar.describe.step2": "Describe",
+
+  "submission.sections.submit.progressbar.describe.step11": "Describe",
+  "submission.sections.submit.progressbar.describe.step22": "Describe",
+  "submission.sections.submit.progressbar.describe.step33": "Describe",
+  
+  "search.filters.filter.itemsede.head": "Campus",
+  "search.filters.filter.itemsede.placeholder": "Campus",
+  "search.filters.filter.itemsede.label": "Pesquisar campus",
+  "search.filters.applied.f.itemsede": "Campus",
+
+  "search.filters.filter.itemfacultad.head": "Faculdade",
+  "search.filters.filter.itemfacultad.placeholder": "Faculdade",
+  "search.filters.filter.itemfacultad.label": "Pesquisar Faculdade",
+  "search.filters.applied.f.itemfacultad": "Faculdade",  
+  
+  "search.filters.filter.itemcarrera.head": "Carreira",
+  "search.filters.filter.itemcarrera.placeholder": "Carreira",
+  "search.filters.filter.itemcarrera.label": "Pesquisar Carreira",
+  "search.filters.applied.f.itemcarrera": "Carreira",
+
+  "vocabulary-treeview.search.form.add": "Adicionar",
+  "menu.section.browse_global_by_carreras": "Por Carreira",
+  "menu.section.browse_global_by_terminos_use": "Por Categoria",
+  "browse.metadata.carreras.breadcrumbs": "Pesquisar por Carreira",
+  "browse.metadata.terminos_use.breadcrumbs": "Navegue por categoria de assunto",
+  "browse.comcol.by.carreras": "Por Carreira",
+  "browse.comcol.by.terminos_use": "Por categoria de assunto",
+  "search.filters.filter.itemcarrera.head" : "Carreira",
+  "search.filters.filter.itemcarrera.placeholder": "Carreira",
+  "search.filters.filter.itemcarrera.label": "Procurar Carreira",
+  "search.filters.applied.f.itemcarrera": "Carreira",
+
+   "item.page.director": "Diretores",
+}

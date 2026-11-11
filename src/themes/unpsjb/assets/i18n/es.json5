@@ -1,0 +1,72 @@
+{
+  "menu.section.browse_community_by_title": "Por título",
+
+  "submission.sections.submit.progressbar.describe.step1": "Describir",
+  "submission.sections.submit.progressbar.describe.step2": "Describir",
+
+  "submission.sections.submit.progressbar.describe.step11": "Describir",
+  "submission.sections.submit.progressbar.describe.step22": "Describir",
+  "submission.sections.submit.progressbar.describe.step33": "Describir",
+
+  "vocabulary-treeview.search.form.add": "Agregar",
+  
+  "menu.section.browse_global_by_carreras": "Por carrera",
+  "menu.section.browse_global_by_terminos_use": "Por categoría",
+  //"menu.section.browse_global_by_familias": "Por familia de herbario",
+  
+
+  "browse.metadata.carreras.breadcrumbs": "Buscar por carrera",
+  "browse.metadata.terminos_use.breadcrumbs": "Buscar por categoría de tema",
+  //"browse.metadata.familias.breadcrumbs": "Buscar por familia de herbario",
+  
+  
+  "browse.comcol.by.carreras": "Por carrera",
+  "browse.comcol.by.terminos_use": "Por categoría",
+
+
+  "search.filters.filter.itemsede.head": "Sede",
+  "search.filters.filter.itemsede.placeholder": "Sede",
+  "search.filters.filter.itemsede.label": "Búsqueda por Sede",
+  "search.filters.applied.f.itemsede": "Sede",
+
+  "search.filters.filter.itemfacultad.head": "Facultad",
+  "search.filters.filter.itemfacultad.placeholder": "Facultad",
+  "search.filters.filter.itemfacultad.label": "Búsqueda por facultad",
+  "search.filters.applied.f.itemfacultad": "Facultad",  
+  
+  "search.filters.filter.itemcarrera.head": "Carrera",
+  "search.filters.filter.itemcarrera.placeholder": "Carrera",
+  "search.filters.filter.itemcarrera.label": "Búsqueda por carrera",
+  "search.filters.applied.f.itemcarrera": "Carrera",
+
+  "dropdown.clear": "Borrar selección",
+  "dropdown.clear.tooltip": "Borrar la opción seleccionada",
+  "vocabulary-treeview.search.form.search-placeholder": "Filtrar resultados escribiendo las primeras letras",
+
+  "browse.taxonomy_srsc.title": "Buscar por categoría de tema",
+  "browse.taxonomy_terminos_use.title": "Buscar por categoría de tema",
+  "browse.taxonomy_carreras.title": "Buscar por carrera",
+
+  "item.page.director": "Directores",  
+  
+  // Acuerdo de usuario final
+  //"info.end-user-agreement.head": "Acuerdo de usuario final de la UNPSJB" 
+  //"info.end-user-agreement.content": "Acuerdo de usuario final (escribir aquí el acuerdo)",
+  //"info.privacy.head": "Política de Privacidad", 
+  //"info.privacy.content": "Aqui las políiticas",
+
+  "cookies.consent.app.title.accessibility": "Configuración de accesibilidad",
+  "info.privacy.breadcrumbs": "Declaración de privacidad",
+  "info.privacy.head": "Declaración de privacidad",
+  "info.privacy.title": "Declaración de privacidad",
+
+  "search.filters.namedresourcetype.Archived": "Archivados",
+
+  "search.filters.namedresourcetype.Validation": "Validación",
+
+  "search.filters.namedresourcetype.Waiting for Controller": "Esperando al controlador",
+
+  "search.filters.namedresourcetype.Workflow": "Flujo de trabajo",
+
+  "search.filters.namedresourcetype.Workspace": "Espacio de trabajo",
+}

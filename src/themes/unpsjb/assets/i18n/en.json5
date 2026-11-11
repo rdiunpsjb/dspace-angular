@@ -1,0 +1,61 @@
+{
+  // DSpace default: "All of DSpace"
+  "menu.section.browse_global": "Browse DSpace",
+
+  // DSpace default: "DSpace Angular :: "
+  //"repository.title.prefix": "DSpace :: ",
+  
+  // "repository.title": "DSpace Repository",
+  "repository.title": "Repositorio DSpace de la UNPSJB",
+
+  // "repository.title.prefix": "DSpace Repository :: ",
+  "repository.title.prefix": "RDI UNPSJB :: ",
+
+  "submission.sections.submit.progressbar.describe.step1": "Describe",
+  "submission.sections.submit.progressbar.describe.step2": "Describe",
+
+  "submission.sections.submit.progressbar.describe.step11": "Describe",
+  "submission.sections.submit.progressbar.describe.step22": "Describe",
+  "submission.sections.submit.progressbar.describe.step33": "Describe",
+ 
+  "search.filters.filter.itemsede.head": "Campus",
+  "search.filters.filter.itemsede.placeholder": "Campus",
+  "search.filters.filter.itemsede.label": "Search campus",
+  "search.filters.applied.f.itemsede": "Campus",
+
+  "search.filters.filter.itemfacultad.head": "Faculty",
+  "search.filters.filter.itemfacultad.placeholder": "Faculty",
+  "search.filters.filter.itemfacultad.label": "Search faculty",
+  "search.filters.applied.f.itemfacultad": "Faculty",  
+  
+  "search.filters.filter.itemcarrera.head": "Career",
+  "search.filters.filter.itemcarrera.placeholder": "Career",
+  "search.filters.filter.itemcarrera.label": "Search career",
+  "search.filters.applied.f.itemcarrera": "Campus",
+
+  "vocabulary-treeview.search.form.add": "Add",
+
+  "menu.section.browse_global_by_carreras": "By Career",
+  "menu.section.browse_global_by_terminos_use": "By Category",
+
+  "browse.metadata.carreras.breadcrumbs": "Browse by Career",
+  "browse.metadata.terminos_use.breadcrumbs": "Browse by Subject Category",
+  "browse.comcol.by.carreras": "By Career",
+  "browse.comcol.by.terminos_use": "By Subject Category",
+
+  "search.filters.filter.itemcarrera.head" : "Career",
+  "search.filters.filter.itemcarrera.placeholder": "Career",
+  "search.filters.filter.itemcarrera.label": "Search Career",
+  "search.filters.applied.f.itemcarrera": "Career",
+  
+  "dropdown.clear": "Clear selection",
+  "dropdown.clear.tooltip": "Clear the selected option",
+  "vocabulary-treeview.search.form.search-placeholder": "Filter results by typing the first few letters",
+
+  "browse.taxonomy_srsc.title": "Browsing by Subject",
+  "browse.taxonomy_terminos_use.title": "Browsing by Subject Category",
+  "browse.taxonomy_carreras.title": "Browsing by Career",
+  
+  "item.page.director": "Directors",
+
+}
